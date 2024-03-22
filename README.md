@@ -1,1 +1,1 @@
-# VCC-Final-Assignment-Daroshum
+The MIT License was chosen because it is very simple and concise, with clear terms that are easy to understand. This simplicity makes it accessible to developers of all levels of expertise and reduces potential legal confusion.
